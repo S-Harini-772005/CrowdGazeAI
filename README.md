@@ -18,7 +18,13 @@ Crowd Gaze AI is a computer vision project that analyzes real-time crowd gaze an
 - Retail analytics
 - Event audience engagement
 - Public space monitoring and safety
-# Install dependencies
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/S-Harini-772005/crowd-gaze-ai.git
+cd crowd-gaze-ai
 pip install -r requirements.txt
-# Run the app
-python app.py
+## Run the app
+python app.py
